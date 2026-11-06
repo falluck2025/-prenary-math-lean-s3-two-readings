@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/待回填.svg)](https://doi.org/待回填)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23446224.svg)](https://doi.org/10.5281/zenodo.23446224)
 
 # 偏元数学 · Day30 · 表里两读法（S-009 对应）
 
